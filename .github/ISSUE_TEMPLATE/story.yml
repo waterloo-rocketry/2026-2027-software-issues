@@ -23,10 +23,10 @@ body:
     id: related-epic
     attributes:
       label: Related Epic
-      description: Which epic does this story belong to?
+      description: Link the parent Epic issue, if one exists.
       placeholder: e.g., "waterloo-rocketry/2026-2027-software-issues#10"
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: user-story

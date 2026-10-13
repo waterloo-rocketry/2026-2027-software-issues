@@ -23,8 +23,8 @@ body:
     id: related-project
     attributes:
       label: Related Project
-      description: Which project does this epic belong to?
-      placeholder: e.g., "waterloo-rocketry/2026-2027-software-issues"
+      description: Link the parent Project issue, if one exists.
+      placeholder: "#42 or waterloo-rocketry/2026-2027-software-issues#42"
     validations:
       required: false
 

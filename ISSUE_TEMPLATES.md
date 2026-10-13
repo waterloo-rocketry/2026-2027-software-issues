@@ -25,7 +25,7 @@ Example: a CAN-decoder modernization effort within a larger telemetry project.
 ### Story
 
 Use a **Story** for a 1–2 week outcome that delivers value to a user, operator,
-or developer. Link the parent epic, write the user story in the form
+or developer. Link the parent epic when one exists, write the user story in the form
 `As a …, I want … so that …`, then define acceptance criteria and the tasks
 needed to complete it. Include an effort estimate and priority.
 
