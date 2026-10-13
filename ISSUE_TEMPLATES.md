@@ -51,6 +51,10 @@ the issue.
 
 ## Writing useful issues
 
+- Stories and tasks have optional **Get Started** and **Related Sources** fields.
+  Use Get Started for setup instructions and concrete first steps for newcomers.
+  Use Related Sources to link the code repositories, files, functions, and tests
+  relevant to the work.
 - Let the form add the title prefix and type label; write a concise, action- or
   outcome-oriented title after it.
 - Complete required fields and use concrete, testable acceptance criteria.

@@ -86,3 +86,27 @@ body:
       placeholder: Include relevant technical details, file locations, or approaches
     validations:
       required: false
+
+  - type: textarea
+    id: get-started
+    attributes:
+      label: Get Started
+      description: Give newcomers clear steps to set up the project and begin this work.
+      placeholder: |
+        1. Clone the code repository and check out the relevant branch.
+        2. Follow the README to install dependencies and run the project.
+        3. Run the relevant tests, then investigate the code linked below.
+    validations:
+      required: false
+
+  - type: textarea
+    id: related-sources
+    attributes:
+      label: Related Sources
+      description: Link relevant code repositories, files, functions, and tests.
+      placeholder: |
+        - Repository or source file: URL and why it is relevant.
+        - Related function or component: file path and name.
+        - Tests: URL or file path.
+    validations:
+      required: false
